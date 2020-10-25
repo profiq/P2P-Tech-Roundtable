@@ -14,7 +14,7 @@ Submit topic proposals as GitHub issues on the [lean coffee velocity project boa
 
 The format is based on [leancoffee.org](https://leancoffee.org/).
 
-- Prior to the online meeting we will crowdsource potential topics as issues on the [lean coffee velocity project board](https://github.com/profiq/peer-to-peer/projects/1. Anyone may propose a topic, and if you would like to kick off the discussion, assign yourself as an owner.
+- Prior to the online meeting we will crowdsource potential topics as issues on the [lean coffee velocity project board](https://github.com/profiq/peer-to-peer/projects/1). Anyone may propose a topic, and if you would like to kick off the discussion, assign yourself as an owner.
 - During the meeting, everyone will refer to the project board and we will all be in a shared slack channel (information to be provided).
 - A facilitator will have the group vote on the next most important topic **to discuss**.
 - The topic sponsor will start the conversation with a two minute perspective. Topic sponsors can volunteer or we can go by round-robin.
