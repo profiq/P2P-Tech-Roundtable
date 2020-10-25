@@ -6,7 +6,7 @@
 
 ## November 10th Theme: Development Velocity
 
-The eople, process and technologies that impact **development velocity**.
+The people, process and technologies that impact **development velocity**.
 
 Submit topic proposals as GitHub issues on the [lean coffee velocity project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
 
