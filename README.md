@@ -8,7 +8,7 @@
 
 The eople, process and technologies that impact **development velocity**.
 
-Submit topic proposals as GitHub issues on the [project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
+Submit topic proposals as GitHub issues on the [lean coffee velocity project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
 
 ## How the Peer-to-Peer Lean Coffee Format Works
 
