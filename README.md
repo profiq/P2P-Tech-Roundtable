@@ -19,7 +19,7 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 - A facilitator will have the group vote on the next most important topic **to discuss**.
 - The topic sponsor will start the conversation with a two minute perspective. Topic sponsors can volunteer or we can go by round-robin.
 - The topic is then opened up for an eight minute group discussion.
-- A timekeeper will let us know when the timebox is up, at which time we will roman vote on whether to extend the conversation for another five minutes or move to a new topic.
+- A timekeeper will let us know when the timebox is up, at which time we will roman vote ![roman vote](images/roman_vote.png) on whether to extend the conversation for another five minutes or move to a new topic.
 
 ## November 10th Meeting Logistics
 
