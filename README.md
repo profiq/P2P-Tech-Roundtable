@@ -1,4 +1,4 @@
-# Peer-to-Peer
+# peer-to-peer
 
 - **Mission**: Connect VP's of Engineering, CTOs and other technical leaders to stay up to date on what's working and what's not.
 - **Topics**: People, process and technology that lead to world-class development organizations.
@@ -10,15 +10,16 @@ The eople, process and technologies that impact **development velocity**.
 
 Submit topic proposals as GitHub issues on the [lean coffee velocity project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
 
-## How the Peer-to-Peer Lean Coffee Format Works
+## How the peer-to-peer Lean Coffee Works
 
-- Everyone will be in a common slack channel and will have access to the [project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
-- We will vote on the next most important topic in the _TO DISCUSS_ column.
-- A topic owner will start the conversation with a 2 minute perspective. We will select topic owners either by round-robin or by topic volunteers.
-- We open the topic up for general discussion for 5 minutes.
-- A timekeeper lets us know when 7 minutes have passed.
-- We roman vote
-- We either continue the discussion for another 7 minutes, or move on to the next topic
+(based on [leancoffee.org](https://leancoffee.org/)
+
+- Prior to the online meeting we will crowdsource potential topics as issues on the [lean coffee velocity project board](https://github.com/profiq/peer-to-peer/projects/1. Anyone may propose a topic, and if you would like to kick off the discussion, assign yourself as an owner.
+- During the meeting, everyone will refer to the project board and we will all be in a shared slack channel (information to be provided).
+- A facilitator will have the group vote on the next most important topic **to discuss**.
+- The topic sponsor will start the conversation with a two minute perspective. Topic sponsors can volunteer or we can go by round-robin.
+- The topic is then opened up for an eight minute group discussion.
+- A timekeeper will let us know when the timebox is up, at which time we will roman vote on whether to extend the conversation for another five minutes or move to a new topic.
 
 ## November 10th Meeting Logistics
 
