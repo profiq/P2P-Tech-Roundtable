@@ -23,4 +23,23 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 
 ## November 10th Meeting Logistics
 
-...
+- If you are interested in participating, please respond to the invite email as soon as possible. The event is limited to 12 participants and we are going to accept participants on the first come first served basis.
+
+- YIf you are participating, you will receive an additional invite to the [GitHub Repo that we will use to help facilitating the discussion](https://github.com/profiq/peer-to-peer). It is **Important** that you accept the GitHub invite, as that will give you access to proposing new topics and to voting on topics.
+
+- We will use Zoom for videoconferencing. Each participant will receive the details via email.
+
+- We will follow this agenda:
+    - Welcome - short intro of the event and what we are up to (2 min)
+    - Short introductions of participants (10 mins)
+    - Explaining the approach to the discussion: Lean Coffee (2 mins)
+    - WHILE (time allows) {
+        - Vote on topics and prioritize the one with the most votes for discussion (2 minutes)
+        - Topic sponsor explaining the topic (2 mins)
+        - Discussion (up to 10 mins per topic)
+        - Summarize outcome (2 mins)
+      }
+    - Closing comments, what's next (5 minutes)
+    
+-  We will callect key takeaways from the discussion and keep collecting them over time. So, it hopefully becomes a great source or knowledge for technical leaders in the industry.
+
