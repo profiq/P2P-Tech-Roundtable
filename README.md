@@ -25,7 +25,7 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 
 - If you are interested in participating, please respond to the invite email as soon as possible. The event is limited to 12 participants and we are going to accept participants on the first come first served basis.
 
-- YIf you are participating, you will receive an additional invite to the [GitHub Repo that we will use to help facilitating the discussion](https://github.com/profiq/peer-to-peer). It is **Important** that you accept the GitHub invite, as that will give you access to proposing new topics and to voting on topics.
+- If you are participating, you will receive an additional invite to the [GitHub Repo that we will use to help facilitating the discussion](https://github.com/profiq/peer-to-peer). It is **Important** that you accept the GitHub invite, as that will give you access to proposing new topics and to voting on topics.
 
 - We will use Zoom for videoconferencing. Each participant will receive the details via email.
 
