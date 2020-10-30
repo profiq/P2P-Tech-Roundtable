@@ -41,5 +41,5 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
       }
     - Closing comments, what's next (5 minutes)
     
--  We will callect key takeaways from the discussion and keep collecting them over time. So, it hopefully becomes a great source or knowledge for technical leaders in the industry.
+-  We will collect key takeaways from the discussion and keep collecting them over time. So, it hopefully becomes a great source or knowledge for technical leaders in the industry.
 
