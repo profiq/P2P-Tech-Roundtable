@@ -27,7 +27,7 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 
 - If you are participating, you will receive an additional invite to the [GitHub Repo that we will use to help facilitating the discussion](https://github.com/profiq/peer-to-peer). It is **Important** that you accept the GitHub invite, as that will give you access to proposing new topics and to voting on topics.
 
-- We will use Zoom for videoconferencing. Each participant will receive the details via email.
+- We will use Zoom for videoconferencing. Each participant will receive the details via email. We intend to record the meeting to easy summarizing the outcome after the meeting. Let us know, of you have objections with being recorded for such an internal purpose.
 
 - We will follow this agenda:
     - Welcome - short intro of the event and what we are up to (2 min)
