@@ -31,7 +31,6 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 
 - We will follow this agenda:
     - Welcome - short intro of the event and what we are up to (2 min)
-    - Short introductions of participants (10 mins)
     - Explaining the approach to the discussion: Lean Coffee (2 mins)
     - WHILE (time allows) {
         - Vote on topics and prioritize the one with the most votes for discussion (2 minutes)
