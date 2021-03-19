@@ -2,13 +2,17 @@
 
 - **Mission**: Connect VP's of Engineering, CTOs and other technical leaders to stay up to date on what's working and what's not.
 - **Topics**: People, process and technology that lead to world-class development organizations.
-- **Format**: Virtual [leancoffee](https://leancoffee.org) discussion every six weeks.
+- **Format**: Virtual [leancoffee](https://leancoffee.org) discussion every six - eight weeks.
 
 ## November 10th Theme: Development Velocity
 
 The people, process and technologies that impact **development velocity**.
 
 Submit topic proposals as GitHub issues on the [lean coffee velocity project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
+
+## March 2nd Theme: Kathy Keating, CTO of TextUs, kicked off the discussion by sharing her framework for developing software engineers and building collaborative teams.
+
+## End of April or 1st week of May Theme: Jason Waldrip, CTO of GigSmart will share his work on Engineering KPIs.
 
 ## How the peer-to-peer Lean Coffee Works
 
@@ -21,9 +25,9 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 - The topic is then opened up for an eight minute group discussion.
 - A timekeeper will let us know when the timebox is up, at which time we will roman vote ![roman vote](images/roman_vote.png) on whether to extend the conversation for another five minutes or move to a new topic.
 
-## November 10th Meeting Logistics
+## Meeting Logistics
 
-- If you are interested in participating, please respond to the invite email as soon as possible. The event is limited to 12 participants and we are going to accept participants on the first come first served basis.
+- If you are interested in participating, please respond to the invite email as soon as possible. The event is limited to 12 participants and we accept participants on the first come first served basis.
 
 - If you are participating, you will receive an additional invite to the [GitHub Repo that we will use to help facilitating the discussion](https://github.com/profiq/peer-to-peer). It is **Important** that you accept the GitHub invite, as that will give you access to proposing new topics and to voting on topics.
 
