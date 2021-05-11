@@ -12,13 +12,13 @@ Submit topic proposals as GitHub issues on the [lean coffee velocity project boa
 
 ## March 2nd Theme: Kathy Keating, CTO of TextUs, kicked off the discussion by sharing her framework for developing software engineers and building collaborative teams.
 
-## End of April or 1st week of May Theme: Jason Waldrip, CTO of GigSmart will share his work on Engineering KPIs.
+## May 12 Theme: Jason Waldrip, CTO of GigSmart will share his work on Engineering KPIs.
 
 ## How the peer-to-peer Lean Coffee Works
 
 The format is based on [leancoffee.org](https://leancoffee.org/).
 
-- Prior to the online meeting we will crowdsource potential topics as issues on the [lean coffee velocity project board](https://github.com/profiq/peer-to-peer/projects/1). Anyone may propose a topic. Topic sponsors start the discussion. If you would like to sponsor the topic, assign yourself as an issue owner.
+- During the meeting we will crowdsource potential topics as issues on the [lean coffee velocity project board](https://github.com/profiq/peer-to-peer/projects/1). Anyone may propose a topic. Topic sponsors start the discussion. If you would like to sponsor the topic, assign yourself as an issue owner.
 - During the meeting, everyone will refer to the project board and we will all be in a shared slack channel (information to be provided).
 - A facilitator will have the group vote on the next most important topic **to discuss**.
 - The topic sponsor will start the conversation with a two minute perspective. Topic sponsors can volunteer or we can go by round-robin.
@@ -35,7 +35,7 @@ The format is based on [leancoffee.org](https://leancoffee.org/).
 
 - We will follow this agenda:
     - Welcome - short intro of the event and what we are up to (2 min)
-    - Explaining the approach to the discussion: Lean Coffee (2 mins)
+    - Explaining the approach to the discussion: Lean Coffee or Presentation Style (2 mins)
     - WHILE (time allows) {
         - Vote on topics and prioritize the one with the most votes for discussion (2 minutes)
         - Topic sponsor explaining the topic (2 mins)
