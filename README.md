@@ -2,7 +2,7 @@
 
 - **Mission**: Connect VP's of Engineering, CTOs and other technical leaders to stay up to date on what's working and what's not.
 - **Topics**: People, process and technology that lead to world-class development organizations.
-- **Format**: Virtual [leancoffee](https://leancoffee.org) discussion every six - eight weeks.
+- **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
 ## November 10th Theme: Development Velocity
 
