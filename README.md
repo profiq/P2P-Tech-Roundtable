@@ -12,7 +12,7 @@ Submit topic proposals as GitHub issues on the [lean coffee velocity project boa
 
 ## March 2nd Theme: Kathy Keating, CTO of TextUs, kicked off the discussion by sharing her framework for developing software engineers and building collaborative teams.
 
-## May 12 Theme: Jason Waldrip, CTO of GigSmart will share his work on Engineering KPIs.
+## May 12 Theme: Dan Lines, Co-founder and COO of Linear B will share his work on Engineering KPIs.
 
 ## How the peer-to-peer Lean Coffee Works
 
