@@ -7,20 +7,20 @@
 ## September 29th Theme: ‘The Value Between The Lines.'
  A small group of us will discuss how to optimize collaboration and grow value across business silos. Every quarter, a different tech leader is highlighted. Rob Pinna, VP Product and Engineering at Serenity App, will guide our upcoming discussion.
 
+## previous topics
+## May 12 2020: Software Engineering metrics
 
-## November 10th Theme: Development Velocity
+Dan Lines, Co-founder and COO of Linear B share his work on Engineering KPIs on productivity, quality, and predictability of the work of engineering teams.
+
+## March 2nd 2020: Career framework for software engineers
+
+Kathy Keating, CTO of TextUs, kicked off the discussion by sharing her framework for developing software engineers and building collaborative teams.
+
+## November 10th 2019: Development Velocity
 
 The people, process and technologies that impact **development velocity**.
 
 Submit topic proposals as GitHub issues on the [lean coffee velocity project board](https://github.com/profiq/P2P-Tech-Roundtable/projects/1).
-
-## March 2nd Theme: Career framework for software engineers
-
-Kathy Keating, CTO of TextUs, kicked off the discussion by sharing her framework for developing software engineers and building collaborative teams.
-
-## May 12 Theme: Software Engineering metrics
-
-Dan Lines, Co-founder and COO of Linear B share his work on Engineering KPIs on productivity, quality, and predictability of the work of engineering teams.
 
 ## Meeting Logistics
 
