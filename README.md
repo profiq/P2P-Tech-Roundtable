@@ -3,7 +3,7 @@
 - **Mission**: Connect VP's of Engineering, CTOs and other technical leaders to stay up to date on what's working and what's not.
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
--
+
 ### September 29th Theme: ‘The Value Between The Lines.'
  A small group of us will discuss how to optimize collaboration and grow value across business silos. Every quarter, a different tech leader is highlighted. Rob Pinna, VP Product and Engineering at Serenity App, will guide our upcoming discussion.
 
