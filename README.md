@@ -4,6 +4,9 @@
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
+### November 3rd Theme: Attracting, Hiring, and Retaining Engineering Talent
+One of the biggest challenges engineering leaders have is finding and keeping software engineers. A small group of tech leaders will discuss how they've approached this challenge, and share their successes through creative approaches. 
+
 ### September 29th Theme: ‘The Value Between The Lines.'
  A small group of us will discuss how to optimize collaboration and grow value across business silos. Every quarter, a different tech leader is highlighted. Rob Pinna, VP Product and Engineering at Serenity App, will guide our upcoming discussion.
 
