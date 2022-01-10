@@ -8,7 +8,7 @@
 
 ## Previous topics
 
-### February 2, 2022 Theme: Optimizing Sycronous and Asycronous Communications With Remote Teams
+### February 2, 2022 Theme: Optimizing Sychronous and Asynchronous Communications With Remote Teams
 Remote is how most teams are working now, it's the new normal. There are sets of communication challenges with remote teams that are locally distributed and other challenges with teams in different timezones. Our conversation will focus on learnings and ways to optimize different modes of communication. 
 
 ### November 3rd Theme: Attracting, Hiring, and Retaining Engineering Talent
