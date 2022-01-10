@@ -4,9 +4,12 @@
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
-### Next event: TBD
+### Next event: February 2, 2022
 
 ## Previous topics
+
+### February 2, 2022 Theme: Optimizing Sycronous and Asycronous Communications With Remote Teams
+Remote is how most teams are working now, it's the new normal. There are sets of communication challenges with remote teams that are locally distributed and other challenges with teams in different timezones. Our conversation will focus on learnings and ways to optimize different modes of communication. 
 
 ### November 3rd Theme: Attracting, Hiring, and Retaining Engineering Talent
 One of the biggest challenges engineering leaders have is finding and keeping software engineers. A small group of tech leaders will discuss how they've approached this challenge, and share their successes through creative approaches. 
