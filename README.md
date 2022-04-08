@@ -4,9 +4,13 @@
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
-### Next event: February 2, 2022
+### Next event: April 12, 2022 at 4:30 pm MT
 
 ## Previous topics
+
+### April 12, 2022 Theme: How to insure and develop with quality.
+How are you developing today? Are you using developers or QA for functional testing? 
+How do you keep up the pace of development with quality?
 
 ### February 2, 2022 Theme: Optimizing Sychronous and Asynchronous Communications With Remote Teams
 Remote is how most teams are working now, it's the new normal. There are sets of communication challenges with remote teams that are locally distributed and other challenges with teams in different timezones. Our conversation will focus on learnings and ways to optimize different modes of communication. 
