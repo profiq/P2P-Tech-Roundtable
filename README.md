@@ -8,7 +8,7 @@
 
 ## Previous topics
 
-### April 12, 2022 Theme: How to insure and develop with quality.
+### April 12, 2022 Theme: How to Insure and Develop with Quality.
 How are you developing today? Are you using developers or QA for functional testing? 
 How do you keep up the pace of development with quality?
 
