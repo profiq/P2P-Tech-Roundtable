@@ -4,8 +4,7 @@
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
-### Next event: November 16, 2022 at 4:30 pm MT
-Integrations 
+### Next event: November 16, 2022 at 4:30 pm MT - All about Integrations
 Data is Collected in Silos. Data silos are a major issues for businesses.
 Companies have several Integration use cases.
 Scaling Your Integrations.
