@@ -4,13 +4,26 @@
 - **Topics**: People, process and technology that lead to world-class development organizations.
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
-### Next event: November 16, 2022 at 4:30 pm MT - All about Integrations
+### Next event: 
+May 2, 2023 at 4:30pm - 
+CTO Leadership during economic downturns.
+Hiring - retaining - scaling back
+Re-negotiating vendor contracts
+Scaling back
+Managing shifting expectations
+
+## Previous topics
+
+### February 21, 2022
+Rob Pinna will present and launch the discussion about Observability. 
+Drinks will be Vodka Tonics
+
+### November 16, 2022 
+All about Integrations
 Data is Collected in Silos. Data silos are a major issues for businesses.
 Companies have several Integration use cases.
 Scaling Your Integrations.
 Bi-Directional Integrations.
-
-## Previous topics
 
 ### September 14, 2022
 Happy hour at Sanitas Brewery in Boulder - Live
