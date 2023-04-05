@@ -5,7 +5,7 @@
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
 ### Next event: 
-May 2, 2023 at 4:30pm - 
+### May 2, 2022 
 CTO Leadership during economic downturns.
 Hiring - retaining - scaling back
 Re-negotiating vendor contracts
