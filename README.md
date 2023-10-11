@@ -5,14 +5,18 @@
 - **Format**: Virtual [leancoffee](https://leancoffee.org) or presentation plus discussion every six - eight weeks.
 
 ### Next event: 
-### May 2, 2022 
+### October 11, 2023
+How to use AI to power QA,Software Development, and Faster Releases
+Discussion about what's really working right now and what is not. 
+
+## Previous topics
+
+### May 2, 2023 
 CTO Leadership during economic downturns.
 Hiring - retaining - scaling back
 Re-negotiating vendor contracts
 Scaling back
 Managing shifting expectations
-
-## Previous topics
 
 ### February 21, 2022
 Rob Pinna will present and launch the discussion about Observability. 
